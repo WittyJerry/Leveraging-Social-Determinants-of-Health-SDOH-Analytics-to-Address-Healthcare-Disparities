@@ -1,0 +1,2 @@
+# Leveraging-Social-Determinants-of-Health-SDOH-Analytics-to-Address-Healthcare-Disparities
+📄 350-character Description: Analyze healthcare disparities using SDOH data to improve equity in underserved communities. Built interactive Power BI dashboards with geospatial mapping, automated workflows, and real-time monitoring to guide targeted interventions, reduce hospital readmissions, and optimize resource allocation.
