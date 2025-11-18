@@ -113,7 +113,7 @@ Develop a centralized, automated **SDOH analytics system** for real-time monitor
 
 ### HealthLink Overview
 **Healthlink Overview Dashboard:** 
-![Healthlink Overview Dashboard]
+![Healthlink Overview Dashboard](https://github.com/WittyJerry/Leveraging-Social-Determinants-of-Health-SDOH-Analytics-to-Address-Healthcare-Disparities/blob/main/Healthlink%20Dashboard%201.png)
 - Population: **5,005** across 7 regions  
 - Chronic disease prevalence highest in **Banjul, Kanifing, Brikama**  
 - Health literacy lowest in **Brikama and Kanifing**  
@@ -121,7 +121,7 @@ Develop a centralized, automated **SDOH analytics system** for real-time monitor
 
 ### Social Determinants of Health
 **Social Determinants of Health dashboard:**
-![Social Determinants of Health dashboard]
+![Social Determinants of Health dashboard](https://github.com/WittyJerry/Leveraging-Social-Determinants-of-Health-SDOH-Analytics-to-Address-Healthcare-Disparities/blob/main/Healthlink%20Dashboard%202.png)
 - Admission Rate: **62.8%**, Readmission Rate: **26.5%**  
 - Severe disease prevalence > **75%** across all regions  
 - Strong links between low income, low education, lack of preventive care, and high disease prevalence  
